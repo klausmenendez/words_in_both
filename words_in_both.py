@@ -18,7 +18,6 @@ def words_in_both(sentence1, sentence2):
                 words.append(string_array1[i])
     return words
 
-print(words_in_both("hello my honey", "hello world"))
 
 
 
