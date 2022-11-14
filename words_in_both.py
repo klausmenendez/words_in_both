@@ -23,7 +23,7 @@ def words_in_both(sentence1, sentence2):
         return string_array1
     else:
         print("no words in common")
-print(words_in_both("in", "from if to in"))
+#print(words_in_both("in", "from if to in"))
 
 
 
